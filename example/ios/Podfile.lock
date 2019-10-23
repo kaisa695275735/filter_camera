@@ -1,0 +1,22 @@
+PODS:
+  - filter_camera (0.0.1):
+    - Flutter
+  - Flutter (1.0.0)
+
+DEPENDENCIES:
+  - filter_camera (from `.symlinks/plugins/filter_camera/ios`)
+  - Flutter (from `.symlinks/flutter/ios`)
+
+EXTERNAL SOURCES:
+  filter_camera:
+    :path: ".symlinks/plugins/filter_camera/ios"
+  Flutter:
+    :path: ".symlinks/flutter/ios"
+
+SPEC CHECKSUMS:
+  filter_camera: 4bdd00cf08d35a8f01dc7309fca303f3cbf2d092
+  Flutter: 0e3d915762c693b495b44d77113d4970485de6ec
+
+PODFILE CHECKSUM: 18e7071532b1b093f5d62e69bc00e65a06456228
+
+COCOAPODS: 1.2.0
